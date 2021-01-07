@@ -9,10 +9,13 @@ sites:
     icon: https://eustartupassociation.com/wp-content/uploads/2020/04/eusa_favicon-32.png
   - name: AFGE
     url: https://afge.legal
+    icon: https://afge.legal/wp-content/uploads/2021/01/afge_favicon-64-2.png
   - name: Sanicode
     url: https://sanicode.app
+    icon: https://sanicode.app/wp-content/uploads/ipad-icon-sanicode-2x.png
   - name: TherAbility
     url: https://therability.toys/en
+    icon: https://therability.toys/wp-content/uploads/cropped-TA_MONOGRAM_COLOR.png
   - name: BEF Biosystems
     url: https://bef.bio
 
