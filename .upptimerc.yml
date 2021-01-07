@@ -1,20 +1,19 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: rizzolessio
+repo: upptime-eusa
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+  - name: European Startup Association
+    url: https://eustartupassociation.com
+  - name: AFGE
+    url: https://afge.legal
+  - name: Sanicode
+    url: https://sanicode.app
+  - name: TherAbility
+    url: https://therability.toys/en
+  - name: BEF Biosystems
+    url: https://bef.bio
   - name: Secret Site
     url: $SECRET_SITE
 
