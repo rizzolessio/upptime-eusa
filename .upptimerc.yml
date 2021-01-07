@@ -6,16 +6,16 @@ repo: upptime-eusa
 sites:
   - name: European Startup Association
     url: https://eustartupassociation.com
-    icon: https://eustartupassociation.com/wp-content/uploads/2020/04/eusa_favicon-32.png
+    icon: https://i.imgur.com/WLknArv.png
   - name: AFGE
     url: https://afge.legal
-    icon: https://afge.legal/wp-content/uploads/2021/01/afge_favicon-64-2.png
+    icon: https://i.imgur.com/CJasJ87.png
   - name: Sanicode
     url: https://sanicode.app
-    icon: https://sanicode.app/wp-content/uploads/ipad-icon-sanicode-2x.png
+    icon: https://i.imgur.com/OxbOygL.png
   - name: TherAbility
     url: https://therability.toys/en
-    icon: https://therability.toys/wp-content/uploads/cropped-TA_MONOGRAM_COLOR.png
+    icon: https://i.imgur.com/IPpghVo.png
   - name: BEF Biosystems
     url: https://bef.bio
 
@@ -26,9 +26,8 @@ status-website:
   baseUrl: /upptime-eusa
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime EuSA marketing
-  introTitle: "**EuSA Upptime** is a open-source uptime monitor and status page for the EUropean Startup Association marketing team."
-  introMessage: This is a status page which uses **real-time** data updated every 5 minutes. Create your own from the [Upptime repository](https://github.com/upptime/upptime).
-  navbar:
+  introTitle: "**EuSA Upptime** is a open-source uptime monitor for the European Startup Association marketing team."
+  introMessage: This is a status page which uses **real-time** data updated every 5 minutes.
     - title: Status
       href: /
     - title: GitHub
