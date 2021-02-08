@@ -18,6 +18,8 @@ sites:
     icon: https://i.imgur.com/IPpghVo.png
   - name: BEF Biosystems
     url: https://bef.bio
+    icon: https://i.imgur.com/UZ2dpCV.png
+    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
