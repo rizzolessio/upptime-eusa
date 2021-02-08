@@ -10,11 +10,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 1643,
-    "timeDay": 1089,
-    "timeWeek": 1013,
-    "timeMonth": 1687,
-    "timeYear": 1643,
+    "time": 1634,
+    "timeDay": 1187,
+    "timeWeek": 1043,
+    "timeMonth": 1657,
+    "timeYear": 1634,
     "dailyMinutesDown": {
       "2021-02-03": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1977,
-    "timeDay": 1350,
-    "timeWeek": 1261,
-    "timeMonth": 1871,
-    "timeYear": 1977,
+    "time": 1958,
+    "timeDay": 1301,
+    "timeWeek": 1260,
+    "timeMonth": 1837,
+    "timeYear": 1958,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 2388,
-    "timeDay": 1341,
-    "timeWeek": 1146,
-    "timeMonth": 2355,
-    "timeYear": 2388,
+    "time": 2359,
+    "timeDay": 1263,
+    "timeWeek": 1151,
+    "timeMonth": 2319,
+    "timeYear": 2359,
     "dailyMinutesDown": {
       "2021-01-12": 41
     }
@@ -63,16 +63,16 @@
     "icon": "https://i.imgur.com/IPpghVo.png",
     "slug": "ther-ability",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.43%",
-    "time": 3323,
-    "timeDay": 1947,
-    "timeWeek": 2113,
-    "timeMonth": 3478,
-    "timeYear": 3323,
+    "uptimeYear": "99.44%",
+    "time": 3289,
+    "timeDay": 1942,
+    "timeWeek": 2091,
+    "timeMonth": 3394,
+    "timeYear": 3289,
     "dailyMinutesDown": {
       "2021-01-20": 258
     }
@@ -80,7 +80,7 @@
   {
     "name": "BEF Biosystems",
     "url": "https://bef.bio",
-    "icon": "https://favicons.githubusercontent.com/bef.bio",
+    "icon": "https://i.imgur.com/UZ2dpCV.png",
     "slug": "bef-biosystems",
     "status": "up",
     "uptime": "100.00%",
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2834,
-    "timeDay": 4008,
-    "timeWeek": 3095,
-    "timeMonth": 2934,
-    "timeYear": 2834,
+    "time": 2811,
+    "timeDay": 2987,
+    "timeWeek": 2954,
+    "timeMonth": 2889,
+    "timeYear": 2811,
     "dailyMinutesDown": {}
   }
 ]
