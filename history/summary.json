@@ -24,9 +24,9 @@
     "url": "https://afge.legal",
     "icon": "https://i.imgur.com/CJasJ87.png",
     "slug": "afge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1162,
     "timeMonth": 1820,
     "timeYear": 1936,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   },
   {
     "name": "Sanicode",
