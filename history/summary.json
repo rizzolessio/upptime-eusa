@@ -10,11 +10,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 1634,
-    "timeDay": 1187,
-    "timeWeek": 1043,
-    "timeMonth": 1657,
-    "timeYear": 1634,
+    "time": 1617,
+    "timeDay": 1104,
+    "timeWeek": 1004,
+    "timeMonth": 1622,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2021-02-03": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1958,
-    "timeDay": 1301,
-    "timeWeek": 1260,
-    "timeMonth": 1837,
-    "timeYear": 1958,
+    "time": 1936,
+    "timeDay": 1161,
+    "timeWeek": 1162,
+    "timeMonth": 1820,
+    "timeYear": 1936,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 2359,
-    "timeDay": 1263,
-    "timeWeek": 1151,
-    "timeMonth": 2319,
-    "timeYear": 2359,
+    "time": 2333,
+    "timeDay": 1230,
+    "timeWeek": 1126,
+    "timeMonth": 2313,
+    "timeYear": 2333,
     "dailyMinutesDown": {
       "2021-01-12": 41
     }
@@ -63,16 +63,16 @@
     "icon": "https://i.imgur.com/IPpghVo.png",
     "slug": "ther-ability",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.44%",
-    "time": 3289,
-    "timeDay": 1942,
-    "timeWeek": 2091,
-    "timeMonth": 3394,
-    "timeYear": 3289,
+    "uptimeYear": "99.45%",
+    "time": 3261,
+    "timeDay": 2008,
+    "timeWeek": 2062,
+    "timeMonth": 3407,
+    "timeYear": 3261,
     "dailyMinutesDown": {
       "2021-01-20": 258
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2811,
-    "timeDay": 2987,
-    "timeWeek": 2954,
-    "timeMonth": 2889,
-    "timeYear": 2811,
+    "time": 2820,
+    "timeDay": 2568,
+    "timeWeek": 2862,
+    "timeMonth": 2935,
+    "timeYear": 2820,
     "dailyMinutesDown": {}
   }
 ]
