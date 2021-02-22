@@ -62,9 +62,9 @@
     "url": "https://therability.toys/en",
     "icon": "https://i.imgur.com/IPpghVo.png",
     "slug": "ther-ability",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.57%",
@@ -74,6 +74,7 @@
     "timeMonth": 2848,
     "timeYear": 3136,
     "dailyMinutesDown": {
+      "2021-02-22": 0,
       "2021-02-09": 27,
       "2021-01-20": 258
     }
