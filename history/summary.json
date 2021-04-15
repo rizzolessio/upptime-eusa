@@ -84,17 +84,17 @@
     "url": "https://bef.bio",
     "icon": "https://i.imgur.com/UZ2dpCV.png",
     "slug": "bef-biosystems",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2027,
-    "timeDay": 5272,
-    "timeWeek": 1812,
-    "timeMonth": 1620,
-    "timeYear": 2027,
+    "time": 2067,
+    "timeDay": 5808,
+    "timeWeek": 2379,
+    "timeMonth": 1763,
+    "timeYear": 2067,
     "dailyMinutesDown": {}
   }
 ]
