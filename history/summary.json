@@ -67,11 +67,11 @@
     "icon": "https://i.imgur.com/IPpghVo.png",
     "slug": "ther-ability",
     "status": "up",
-    "uptime": "71.54%",
+    "uptime": "71.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.32%",
-    "uptimeYear": "71.54%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "71.62%",
     "time": 3017,
     "timeDay": 1321,
     "timeWeek": 1196,
@@ -142,9 +142,9 @@
     "url": "https://bef.bio",
     "icon": "https://i.imgur.com/UZ2dpCV.png",
     "slug": "bef-biosystems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,6 +153,8 @@
     "timeWeek": 1227,
     "timeMonth": 1163,
     "timeYear": 1788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-09": 0
+    }
   }
 ]
