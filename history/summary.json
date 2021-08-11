@@ -26,19 +26,19 @@
     "url": "https://afge.legal",
     "icon": "https://i.imgur.com/CJasJ87.png",
     "slug": "afge",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1405,
-    "timeDay": 1572,
+    "timeDay": 1525,
     "timeWeek": 1382,
-    "timeMonth": 1285,
+    "timeMonth": 1288,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2021-08-11": 0
+      "2021-08-11": 9
     }
   },
   {
